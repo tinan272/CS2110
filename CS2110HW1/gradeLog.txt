@@ -1,0 +1,10 @@
+Bases.java: 
+	binaryStringToInt: 5.0/5.0
+	decimalStringToInt: 5.0/5.0
+	hexStringToInt: 5.0/5.0
+	intToOctalString: 0.0/5.0
+		[fail] Failed test case for method intToOctalString. Arguments [38]; Expected return value: 46; Actual: Empty string
+		[fail] Failed test case for method intToOctalString. Arguments [6812]; Expected return value: 15234; Actual: Empty string
+		[fail] Failed test case for method intToOctalString. Arguments [1676503039]; Expected return value: 14373263777; Actual: Empty string
+	binaryStringToHexString: 5.0/5.0
+Final Grade: 20.0/25.0
